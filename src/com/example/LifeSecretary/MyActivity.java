@@ -11,5 +11,10 @@ public class MyActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
+        initView();
+    }
+
+    private void initView() {
+        //To change body of created methods use File | Settings | File Templates.
     }
 }
