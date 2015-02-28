@@ -15,6 +15,5 @@ public class MyActivity extends Activity {
     }
 
     private void initView() {
-
     }
 }
