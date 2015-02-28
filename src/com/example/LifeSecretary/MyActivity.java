@@ -15,6 +15,6 @@ public class MyActivity extends Activity {
     }
 
     private void initView() {
-        //To change body of created methods use File | Settings | File Templates.
+
     }
 }
